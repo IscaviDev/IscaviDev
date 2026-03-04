@@ -1,41 +1,29 @@
 # Hola, soy Isaac 👋
 
-### Software Engineer | AI & Backend Architecture
-Desarrollador enfocado en la creación de soluciones escalables y automatización inteligente. Especializado en el diseño de sistemas que integran Inteligencia Artificial con infraestructuras robustas y arquitecturas de software eficientes.
+### Software Engineer | AI & Backend Enthusiast
+Soy un desarrollador enfocado en crear soluciones eficientes y escalables. Me apasiona la inteligencia artificial, la arquitectura de software y el desarrollo de herramientas que optimicen procesos reales.
 
 ---
 
-### 🛠️ Technical Stack & Expertise
+### 🛠️ Tecnologías y Herramientas
 
-| Categoría | Tecnologías |
-| :--- | :--- |
-| **Languages Core** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
-| **Frontend & UI** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Flet](https://img.shields.io/badge/Flet-422CFF?style=flat-square&logo=flet&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Backend & IA** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
-| **Data Management** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) |
-| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+- **Lenguajes:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flet](https://img.shields.io/badge/Flet-000000?style=for-the-badge&logo=flet&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+- **Frontend & Estilos:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JSON](https://img.shields.io/badge/json-5E5E5E?style=for-the-badge&logo=json&logoColor=white)
+- **Bases de Datos:** ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- **IA & Backend:** ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+- **Herramientas:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ### 🚀 Proyectos Destacados
 
-#### 🤖 [REY](https://github.com/TU-USUARIO/REY) 
-*Asistente Virtual de Control de Sistemas con IA.*
-- **Descripción:** Interfaz de control por voz avanzada (estilo Jarvis) que permite la gestión integral del sistema operativo.
-- **Key Features:** Integración con la API de **ChatGPT** para el procesamiento de lenguaje natural y automatización de flujos de trabajo.
-
-#### ⚽ [World Cup CLI](https://github.com/TU-USUARIO/WorldCup)
-*Engine de Simulación Deportiva en Terminal.*
-- **Descripción:** Videojuego basado en interfaz de línea de comandos (CLI) centrado en la lógica de estados y algoritmos de simulación competitiva.
-- **Tech Focus:** Programación funcional y gestión de datos estructurados.
-
-#### 🌐 [IntraNet](https://github.com/TU-USUARIO/IntraNet)
-*Infraestructura de Gestión de Red.*
-- **Descripción:** Ecosistema de red privada diseñado para la centralización de recursos y optimización de la seguridad de datos local.
+* **[REY](https://github.com/TU-USUARIO/REY):** Un ecosistema de IA multipropósito diseñado para la automatización de tareas complejas.
+* **[DigitalPlus](https://github.com/TU-USUARIO/DigitalPlus):** Plataforma escalable desarrollada con TypeScript orientada a la gestión de servicios digitales.
+* **[WorldCup](https://github.com/TU-USUARIO/WorldCup):** Aplicación de seguimiento y análisis de datos deportivos en tiempo real.
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Isaac" />
@@ -45,6 +33,7 @@ Desarrollador enfocado en la creación de soluciones escalables y automatizació
 
 ---
 
-### 📫 Contact & Social
+### 📫 Contacto
+
 - **LinkedIn:** [Tu Nombre](https://linkedin.com/in/tu-perfil)
-- **Email:** `tu-correo@ejemplo.com`
+- **Email:** [tu-correo@ejemplo.com]
