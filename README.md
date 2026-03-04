@@ -21,17 +21,17 @@ Desarrollador enfocado en la creación de soluciones escalables y automatizació
 
 #### 🤖 [REY](https://github.com/TU-USUARIO/REY) 
 *Asistente Virtual de Control de Sistemas con IA.*
-- **Descripción:** Interfaz de control por voz avanzada (estilo Jarvis) que permite la gestión integral del sistema operativo.
-- **Key Features:** Integración con la API de **ChatGPT** para el procesamiento de lenguaje natural y ejecución de flujos de trabajo automatizados.
+- **Descripción:** Implementación de una interfaz de control por voz inspirada en el concepto "Jarvis". Permite la gestión integral del sistema operativo mediante comandos de voz.
+- **Key Features:** Integración avanzada con la API de **ChatGPT** para procesamiento de lenguaje natural y ejecución de tareas automatizadas.
 
 #### ⚽ [World Cup CLI](https://github.com/TU-USUARIO/WorldCup)
 *Engine de Simulación Deportiva en Terminal.*
-- **Descripción:** Videojuego basado en interfaz de línea de comandos (CLI) centrado en la lógica de estados y algoritmos de simulación competitiva.
-- **Tech Focus:** Programación funcional y gestión de datos en entornos de bajo consumo de recursos.
+- **Descripción:** Videojuego desarrollado íntegramente para interfaz de línea de comandos (CLI), enfocado en la lógica de estados y algoritmos de simulación competitiva.
+- **Tech Focus:** Manejo de datos estructurados y lógica de backend pura.
 
 #### 🌐 [IntraNet](https://github.com/TU-USUARIO/IntraNet)
-*Infraestructura de Gestión de Red.*
-- **Descripción:** Ecosistema de red privada diseñado para la centralización de recursos corporativos y optimización de la seguridad de datos.
+*Infraestructura de Red Local.*
+- **Descripción:** Ecosistema de red privada diseñado para la gestión centralizada de recursos y optimización de comunicación de datos segura.
 
 ---
 
