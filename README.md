@@ -1,7 +1,7 @@
 # Hola, soy Isaac 👋
 
-### Software Engineer | AI & Backend Architecture
-Soy un desarrollador apasionado por la creación de soluciones escalables y la automatización inteligente. Mi enfoque principal es el diseño de sistemas que integran Inteligencia Artificial con infraestructuras robustas y arquitecturas de software eficientes.
+### Software Engineer | AI & Full-Stack Multi-Platform Architecture
+Software Engineer specialized in the development of comprehensive digital ecosystems. My expertise ranges from implementing robust backend architectures and AI orchestration to delivering high-fidelity interfaces for Web and Multi-platform environments.
 
 ---
 
