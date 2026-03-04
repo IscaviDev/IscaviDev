@@ -1,3 +1,8 @@
+# Hola, soy Isaac 👋
+
+### Software Engineer | AI & Backend Enthusiast
+Soy un desarrollador enfocado en crear soluciones eficientes y escalables. Me apasiona la inteligencia artificial, la arquitectura de software y el desarrollo de herramientas que optimicen procesos reales.
+
 ---
 
 ### 🛠️ Stack Tecnológico e Infraestructura
@@ -17,7 +22,7 @@
 #### 🤖 [REY](https://github.com/TU-USUARIO/REY) 
 *Sistema de asistencia virtual inteligente.*
 - **Descripción:** Implementación de una interfaz de control por voz inspirada en el concepto "Jarvis". Permite la gestión integral del sistema operativo mediante comandos de voz.
-- **Key Features:** Integración avanzada con la API de **ChatGPT** para procesamiento de lenguaje natural y ejecución de tareas automatizadas en entorno local.
+- **Key Features:** Integración avanzada con la API de **ChatGPT** para procesamiento de lenguaje natural y ejecución de tareas automatizadas.
 
 #### 🌐 [IntraNet](https://github.com/TU-USUARIO/IntraNet)
 *Infraestructura de red local.*
@@ -26,6 +31,20 @@
 #### ⚽ [World Cup CLI](https://github.com/TU-USUARIO/WorldCup)
 *Engine de simulación deportiva.*
 - **Descripción:** Videojuego basado en interfaz de línea de comandos (CLI). Enfocado en la lógica de estados y algoritmos de simulación de partidos competitivos.
-- **Tech Focus:** Programación funcional y gestión de flujos de datos en terminal.
 
 ---
+
+### 📊 Mis Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Isaac" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+</p>
+
+---
+
+### 📫 Contacto
+
+- **LinkedIn:** [Tu Nombre](https://linkedin.com/in/tu-perfil)
+- **Email:** [tu-correo@ejemplo.com]
