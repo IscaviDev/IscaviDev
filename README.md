@@ -1,6 +1,6 @@
 # Isaac Castillo Vidal
 
-### Software Engineer | AI & Full-Stack Multi-Platform Architecture
+### Software Developer | Full-Stack Multi-Platform Architecture
 Software Engineer specialized in the development of **comprehensive digital ecosystems**. My expertise ranges from **implementing robust backend architectures** and **AI orchestration** to delivering high-fidelity interfaces for **Web and Multi-platform environments**.
 
 ---
