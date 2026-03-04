@@ -36,16 +36,6 @@ Software Engineer specialized in the development of **comprehensive digital ecos
 
 ---
 
-### 📊 GitHub Activity & Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="Isaac's Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
-
----
-
 ### 📫 Contact & Social
-- **LinkedIn:** [Your Name](https://linkedin.com/in/tu-perfil)
-- **Email:** `tu-correo@ejemplo.com`
+- **LinkedIn:** [iscavidev](https://www.linkedin.com/in/iscavidev/)
+- **Email:** `32icv23@gmail.com`
